@@ -31,3 +31,10 @@ An embedded system for scanning and visualizing distances using an ultrasonic se
 
 - [`ESP32Servo`](https://github.com/madhephaestus/ESP32Servo) – for servo control  
 - [`TFT_eSPI`](https://github.com/Bodmer/TFT_eSPI) – for TFT graphics rendering
+
+## Preview
+
+https://github.com/user-attachments/assets/96433d10-5c33-4c49-8044-a908a1638a4a
+
+
+
